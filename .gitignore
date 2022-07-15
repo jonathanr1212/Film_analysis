@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+*.pytest_cache
+.gitattributes
+!*.zip
+.gz
+im.db
+bom.movie_gross.csv.gz
