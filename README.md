@@ -12,7 +12,9 @@ The Analysis uses descriptive analysis which shows the relationship between vari
 
 ## Results
 
-
+![](images/average_movie_budget.png)
+![](images/highest_rated_genre.png)
+![](images/top_directors.png)
 
 
 
